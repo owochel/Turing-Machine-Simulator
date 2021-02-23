@@ -14,3 +14,6 @@ This is a Turing Machine simulator made in Tic-80.
 Player should press SPACE to activate the next step in this turing machine.
 
 The change of initial input tape must be changed in the code.
+
+
+https://owochel.github.io/Turing-Machine-Simulator/
